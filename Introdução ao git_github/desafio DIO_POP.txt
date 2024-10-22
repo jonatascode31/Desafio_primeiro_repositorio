@@ -1,0 +1,24 @@
+desafio DIO
+1- ir no GitHub criar um novo repositório (nome: dio-desafio-github-primeiro repositório)
+2- colocar na descrição(desafio de projeto sobre git/GitHub
+3- deixar público
+4- add o readme
+5- cria o repositório.
+6- ir no readme, edita e coloca (Desafio de projeto sobre git/GitHub da dio)
+7- abaixo do titulo colocar (repositório criado para o desafio de projeto)
+8-após isso comita
+--------------------------------
+9-vai no botão code e clona o link em https
+10- inicia o gitbash na pasta onde ficará os projetos
+11- com o gitbash aberto vai colocar o comando git clone e colar o link que foi copiado
+12-coloca o comando cd(entra no repositório)(tem que está na branch main)
+13-coloca o comando git status e verifica se está tudo certo
+-------------------------------------------------------------
+14-cria uma pasta e coloca dentro da pasta onde inicializou o projeto
+15-coloca o comando git status e verifica que o git informou que há uma pasta nova
+16- coloca o git add . (para adicionar todos os arquivos a branch)
+17- digita git commit -m (escreve : inclusão das anotações do curso de git/GitHub)- comentário que faz referência ao que foi colocado agora.
+18-coloca git status e verifica 
+19- digita git push origin main(comando que envia todos os commits para a nuvem{github})
+20 - da um f5 no git hub e verifica se a pasta foi add
+21-
